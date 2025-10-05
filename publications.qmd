@@ -1,0 +1,98 @@
+---
+title: "Publications"
+---
+
+## 2025
+- **Implantable Cardioverter-Defibrillator and Frailty in Non-ischemic Heart Failure with Reduced Ejection Fraction: Extended Follow-Up of the DANISH Trial**  
+  *Jawad H. Butt, Johan Skov Bundgaard, Morten Schou, Adelina Yafasova, Seiko N. Doi, Jesper H. Svendsen, Dan E. Høfsten, Christian Hassager, Hans Eiskjær, Jens C. Nielsen, Niels E. Bruun, Lars Videbæk, Axel Brandes, Jens Jakob Thune, Steen Pehrson, Lars Køber* — *American Journal of Cardiology*, 2025. (link)
+
+- **Quantitative proteomics of FFPE-preserved cardiac specimens uncovers protein signatures of specialized regions and across patient cohorts**  
+  *Jonathan S. Achter, Thomas H. L. Jensen, Paola Pisano, Johan S. Bundgaard, Daniel Raaschou-Oddershede, Kasper Rossing, Michael Wierer, Alicia Lundby* — *Nature Cardiovascular Research*, 2025. (link)
+
+- **Genome-wide meta-analysis identifies nine loci associated with higher risk of hepatocellular carcinoma development**  
+  *Jonas Ghouse, Helene Gellert-Kristensen, Stefan Stender, et al.* — *JHEP Reports*, 2025. (link)
+
+- **Danish Cardiologists’ Attitude Toward Clinical AI Support: A Survey Study**  
+  *Søren A. Rand, Anna K. Ringgaard, Anders Riis-Jensen, Henning Bundgaard, Iben M. Gjødsbøl, Johan Skov Bundgaard* — *Ugeskrift for Læger*, 2025. (link)
+
+## 2024
+- **Paediatric patient referrals from Greenland to Denmark**  
+  *Johan S. Bundgaard, et al.* — *Ugeskrift for Læger*, 2024. (link)
+
+- **Bibliometric Analysis of Health Research in Greenland from 2001–2020**  
+  *Emil Ørskov Ipsen, Jos Dalvad, Anders Koch, Johan Skov Bundgaard* — *Scandinavian Journal of Public Health*, 2024. (link)
+
+## 2023
+- **Patient referrals from Greenland to the National University Hospital, Rigshospitalet, Denmark – focus on cardiology**  
+  *Johan S. Bundgaard, et al.* — *Ugeskrift for Læger*, 2023. (link)
+
+## 2022
+- **Dyslipidemia and the preventive potential in the Greenlandic Population**  
+  *Johan S. Bundgaard, et al.* — *Atherosclerosis Plus*, 2022. (link)
+
+- **Håndtering af hæmatologi i Grønland** *(statusartikel)*  
+  *Johan S. Bundgaard, et al.* — *Ugeskrift for Læger*, 2022. (link)
+
+- **Direct and indirect costs of heart failure respective of diabetes status – a nationwide study**  
+  *Johan S. Bundgaard, et al.* — *Nutrition, Metabolism and Cardiovascular Diseases*, 2022. (link)
+
+- **Healthcare cost variation in patients with heart failure: a nationwide study**  
+  *Johan S. Bundgaard, et al.* — *Public Health*, 2022. (link)
+
+- **Self-assessed health status and associated mortality in endocarditis: secondary findings from the POET trial**  
+  *Johan S. Bundgaard, et al.* — *Quality of Life Research*, 2022. (link)
+
+- **Digital health competencies in medical school education: a scoping review and Delphi method study**  
+  *Mark P. Khurana, Daniel E. Raaschou-Pedersen, Jørgen Kurtzhals, Jakob E. Bardram, Sisse R. Ostrowski, Johan S. Bundgaard* — *BMC Medical Education*, 2022. (link)
+
+- **Patient-prioritized primary endpoints in clinical trials**  
+  *Johan S. Bundgaard, et al.* — *Scandinavian Cardiovascular Journal*, 2022. (link)
+
+- **The impact of partial-oral endocarditis treatment on anxiety and depression in the POET trial**  
+  *Johan S. Bundgaard, et al.* — *Journal of Psychosomatic Research*, 2022. (link)
+
+## 2021
+- **Response letter regarding effectiveness of adding a mask recommendation to other public health measures**  
+  *Henning Bundgaard, A. Ringgaard, D. Raaschou-Pedersen, Johan S. Bundgaard, et al.* — *Annals of Internal Medicine*, 2021. (link)
+
+- **Danish citizens’ preferences for at-home oropharyngeal/nasal SARS-CoV-2 specimen collection**  
+  *Johan S. Bundgaard, et al.* — *International Journal of Infectious Diseases*, 2021. (link)
+
+## 2020
+- **Response to letter of concern regarding “Reduction in COVID-19 infection using surgical facial masks outside the healthcare system”**  
+  *Henning Bundgaard, Johan Skov Bundgaard, Thomas Benfield, et al.* — *Danish Medical Journal*, 2020. (link)
+
+- **Effectiveness of adding a mask recommendation to other public health measures to prevent SARS-CoV-2 infection in Danish mask wearers (DANMASK-19)**  
+  *Henning Bundgaard, Johan S. Bundgaard, Daniel E. T. Raaschou-Pedersen, et al.* — *Annals of Internal Medicine*, 2020. (link)
+
+- **Self-collected versus health care worker-collected swabs in the diagnosis of SARS-CoV-2**  
+  *Johan Hindkjær Therchilsen, Christian von Buchwald, Anders Koch, Susanne Dam Poulsen, Daniel B. Rasmussen, Rebekka Faber Thudium, Nikolai Søren Kirkby, Daniel E. T. Raaschou-Pedersen, Johan S. Bundgaard, Kasper Iversen, Henning Bundgaard, Tobias Todsen* — *Diagnostics*, 2020. (link)
+
+- **Face masks for the prevention of COVID-19 — rationale and design of the randomised controlled trial DANMASK-19**  
+  *Henning Bundgaard, Johan Skov Bundgaard, Daniel Emil Tadeusz Raaschou-Pedersen, Anton Friis Mariager, Natasja Schytte, Christian von Buchwald, Tobias Todsen, Kerstin Skovgaard, Ramona Trebbien, Mikkel Porsborg Andersen, Thomas Benfield, Henrik Ullum, Christian Torp-Pedersen, Kasper Iversen* — *Danish Medical Journal*, 2020. (link)
+
+- **Add-on therapy in metformin-treated patients with type 2 diabetes at moderate cardiovascular risk: a nationwide study**  
+  *David Thein, Mia Nielsen Christiansen, Ulrik Madvig Mogensen, Johan Skov Bundgaard, Rasmus Rørth, Christian Madelaire, Emil Loldrup Fosbøl, Morten Schou, Christian Torp-Pedersen, Gunnar Gislason, Lars Køber, Søren Lund Kristensen* — *Cardiovascular Diabetology*, 2020. (link)
+
+- **Self-reported health status and the associated risk of mortality in heart failure: the DANISH trial**  
+  *Johan S. Bundgaard, et al.* — *Journal of Psychosomatic Research*, 2020. (link)
+
+- **Deep sedation as temporary bridge to definitive treatment of ventricular arrhythmia storm**  
+  *Johan S. Bundgaard, et al.* — *European Heart Journal – Acute Cardiovascular Care*, 2020. (link)
+
+- **Quality of life and the associated risk of all-cause mortality in non-ischemic heart failure**  
+  *Johan S. Bundgaard, et al.* — *International Journal of Cardiology*, 2020. (link)
+
+## 2019
+- **Association between Type D personality and outcomes in patients with non-ischemic heart failure**  
+  *Johan S. Bundgaard, et al.* — *Quality of Life Research*, 2019. (link)
+
+- **The economic burden of heart failure in Denmark from 1998–2016**  
+  *Johan S. Bundgaard, et al.* — *European Journal of Heart Failure*, 2019. (link)
+
+- **The impact of implantable cardioverter-defibrillator implantation on health-related quality of life in the DANISH trial**  
+  *Johan S. Bundgaard, et al.* — *Europace*, 2019. (link)
+
+## 2018
+- **Duration and complications of diabetes mellitus and the associated risk of infective endocarditis**  
+  *Lauge Østergaard, Ulrik Mogensen, Johan S. Bundgaard, Anders Dahl, Andrew Wang, Christian Torp-Pedersen, Gunnar Gislason, Lars Køber, Nana Køber, Thomas F. Dejgaard, Christian Frandsen, Emil L. Fosbøl* — *International Journal of Cardiology*, 2018. (link)
