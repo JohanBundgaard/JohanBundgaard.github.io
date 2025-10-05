@@ -72,9 +72,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Johan Skov Bundgaard, MD, PhD Fellow",
+    "title": "About",
     "section": "",
-    "text": "I’m an MD and PhD fellow at the Copenhagen Hospital Biobank. My work sits at the intersection of cardiology, immunology, and genetics, with a PhD project focused on the genetics of fibrosis.\nAlongside research, I care about health policy and how evidence moves into practice. I occasionally write chronicles and commentary—often about digital health, medical education, and the Nordic health systems—for outlets such as Ugeskrift for Læger, Dagens Medicin, Berlingske, Politiken and Nakorsanut."
+    "text": "Interests\nI work at the intersection of cardiology, immunology and human genetics.\nCurrent focus: the genetics of fibrosis and how genetic signals can inform clinical risk and mechanisms.\nI’m also interested in health policy and the practical use of evidence and digital tools in healthcare.\n\n\nShort bio\nI’m an MD and PhD fellow at the Copenhagen Hospital Biobank (Rigshospitalet / University of Copenhagen).\nMy PhD project studies genetic contributions to fibrosis in cardiovascular disease.\nI occasionally write chronicles on digital health, medical education and Nordic health systems.\n\n\nExperience\n\nBoston Consulting Group — Associate (2022–2024)\n\nDronning Ingrids Hospital, Nuuk — Medical doctor, medicine + primary care/emergency (2021–2022)\n\n\n\nEducation\n\nPhD (in progress) — University of Copenhagen\n\nMD — University of Copenhagen"
   },
   {
     "objectID": "chronicles.html",
@@ -135,8 +135,8 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Johan Skov Bundgaard, MD, PhD Fellow",
+    "title": "Johan Skov Bundgaard",
     "section": "",
-    "text": "I’m an MD and PhD fellow at the Copenhagen Hospital Biobank. My work sits at the intersection of cardiology, immunology, and genetics, with a PhD project focused on the genetics of fibrosis.\nAlongside research, I care about health policy and how evidence moves into practice. I occasionally write chronicles and commentary—often about digital health, medical education, and the Nordic health systems—for outlets such as Ugeskrift for Læger, Dagens Medicin, Berlingske, Politiken and Nakorsanut."
+    "text": "title: “About”\n\n&lt;img src=“images/headshot.png” alt=“Johan Skov Bundgaard” class=“headshot”&gt;\n### Interests\nI work at the intersection of **cardiology**, **immunology** and **human genetics**.\nCurrent focus: the **genetics of fibrosis** and how genetic signals can inform clinical risk and mechanisms.\nI’m also interested in **health policy** and the practical use of evidence and digital tools in healthcare.\n### Short bio\nI’m an MD and PhD fellow at the **Copenhagen Hospital Biobank** (Rigshospitalet / University of Copenhagen).\nMy PhD project studies genetic contributions to fibrosis in cardiovascular disease.\nI occasionally write chronicles on digital health, medical education and Nordic health systems.\n### Experience\n- **Boston Consulting Group** — Associate (2022–2024)\n- **Dronning Ingrids Hospital, Nuuk** — Medical doctor, medicine + primary care/emergency (2021–2022)\n### Education\n- **PhD (in progress)** — University of Copenhagen\n- **MD** — University of Copenhagen"
   }
 ]
